@@ -1,4 +1,4 @@
-# nick = altr
+# nick = io / altr
 # url  = https://hoshiiro.github.io/twtxt/twtxt.txt
 # lang = ID / EN (mixed)
 
